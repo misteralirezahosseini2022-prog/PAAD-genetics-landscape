@@ -1,0 +1,7 @@
+"gene1","gene2","both_mutated","odds_ratio","p_value","p_adj"
+"KRAS","TP53",90,8.12,1.24e-09,0
+"KRAS","CDKN2A",33,11.09,3.86e-05,0
+"KRAS","SMAD4",33,5.36,0.000748,0.001
+"TP53","CDKN2A",31,6.57,9.6e-05,0
+"TP53","SMAD4",23,1.08,1,1
+"CDKN2A","SMAD4",7,0.93,1,1
